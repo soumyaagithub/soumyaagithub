@@ -1,9 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Soumya</h1>
+<h3 align="center">Full stack Developer</h3>
 
-<!--
-**soumyaagithub/soumyaagithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Web development with diffrent Stack**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
